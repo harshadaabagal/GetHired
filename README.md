@@ -20,24 +20,6 @@ GetHired is a job search and career management portal for university students.
 - Students can access their dashboards to view their applications, registered events and job recommendations based on their interests.
 - Used Charts.js to display the status of the applications on the student dashboard.
 
-## User Stories
-
-## Frontend
-
-- Login Page - As a Student, I want to be able to login to my account so that I can access my personalized information and preferences - Swarali
-- Signup Page - As a Student, I want to sign up and create my profile, so that my information can be shared with recruiters - Swarali
-- Profile Page(studentview) - As a Student, I want to be able to view and edit my profile information so that I can manage my personal details - Swarali
-- Employer Profile - As a student, I want to be able to View the company's profile page that showcases the company’s brand, culture, and job opportunities - Swarali
-- Profile Page(Employer view) - As an recruiter, I want to be able to create and manage my company's profile page so that I can showcase our brand, culture, and job opportunities to potential candidates - Harshada
-- Profile Page(Student view) - As a student, I want to be able to view and edit my profile information so that I can manage my personal details - harshada
-- Add Job - As an recruiter, I want to be able to add a job opportunity on a user-friendly platform, so that I can attract potential candidates and easily manage my job listings - Harshada
-- Delete Job posting - As a recruiter, I want to delete or inactivate a job posting, so that job opening that has been filled is not visible - Anupam
-- Job Search Page - As a user, I want to be able to search for job openings on a user-friendly job search page, so that I can easily find relevant job opportunities and apply for them - Anupam
-  -Home Page(Student view) - As a Student, I want to apply for job applications so that I can get a job and see my application status - Anupam
-- Job Apply Page - As a Student, I want to filter job posting, so that I can find jobs related to my field/interest - Anupam
-- Browse Events - As a Student, I want to filter events, so that I can attend events related to my field of interest - Sudharsan
-- Review Page - As a Student, I want to add reviews about an organization, so that other fellow students can learn about my experience at an organization - Sudharsan
-- Applications - As a recruiter, I want to view the recived applications and the student's profiles - Sudharsan
 
 Domain Model
 ![Domain Model](/assets/images/Domain_model.jpeg)
