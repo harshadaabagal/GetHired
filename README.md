@@ -39,57 +39,7 @@ GetHired is a job search and career management portal for university students.
 - Review Page - As a Student, I want to add reviews about an organization, so that other fellow students can learn about my experience at an organization - Sudharsan
 - Applications - As a recruiter, I want to view the recived applications and the student's profiles - Sudharsan
 
-## Backend
-
-### Anupam
-
--To create a new student</br>
--To create a new student</br>
--To update Student details</br>
--To delete a Student</br>
--To get all Students</br>
--To create a new recruiter</br>
--To get a Recruiter by id</br>
--To update Recruiter details</br>
--To delete a Recruiter</br>
--To get all recruiters</br>
-
-### Swarali
-
--To create a new application</br>
--To get a application by id</br>
--To update application details</br>
--To delete a application</br>
--To get all applications</br>
-
-### Sudharsan
-
--To create a new organization</br>
--To get a organization by id</br>
--To update organization details</br>
--To delete a organization</br>
--To get all organization</br>
--To create a new job</br>
--To get a job</br>
--To update job details</br>
--To delete a job</br>
--To get all jobs</br>
-
-### Harshada
-
--To create a new project</br>
--To get a project by id</br>
--To update project details</br>
--To delete a project</br>
--To get all projects</br>
--To create a new registration</br>
--To get a registration by student id</br>
--To update registration details</br>
--To delete a registration</br>
--To get all registrations</br>
-
-## Domain Model
-
+Domain Model
 ![Domain Model](/assets/images/Domain_model.jpeg)
 
 ## Milestones
