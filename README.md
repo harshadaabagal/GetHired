@@ -83,6 +83,9 @@ Milestone 5 -
 Testing and Deployment</br>
 Perform unit testing and system testing to closely rectify if any bugs in the system</br>
 Deploy it on the server</br>
+<img width="1440" alt="MicrosoftTeams-image (2)" src="https://user-images.githubusercontent.com/43906676/233677691-10661eed-d2b8-4a15-9d02-35d90431fadd.png">
+<img width="1440" alt="MicrosoftTeams-image (3)" src="https://user-images.githubusercontent.com/43906676/233677723-c27ae697-19bb-4c96-a597-43fc76f6aa50.png">
+<img width="1440" alt="MicrosoftTeams-image (8)" src="https://user-images.githubusercontent.com/43906676/233677758-d481f1f4-4da2-422b-9ec3-3039b34d01ab.png">
 
 
 ### Instructions to Setup this Project <hr>
